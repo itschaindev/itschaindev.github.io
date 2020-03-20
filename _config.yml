@@ -84,6 +84,7 @@ share-links-active:
   twitter: true
   linkedin: true
   facebook: true
+  rss: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
