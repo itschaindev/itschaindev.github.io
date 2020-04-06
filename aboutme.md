@@ -6,9 +6,9 @@ subtitle: Hi! I'm Jagrut. I live in Berlin.
 
 Living with a constant existential crisis can be difficult, but intriguing enough for a constant un-learn, re-learn cycle.
 
-I hate the idea of _Societal Structures_, but I haven't escaped it, yet!
+I dislike the idea of _Societal Structures_, but I haven't escaped it, yet!
 
-I do not belive in any religion or God, but open to existence of [Type 2 or 3 civilization](https://en.wikipedia.org/wiki/Kardashev_scale).
+I am open to the possibility of existence of [Type 2 or 3 civilization](https://en.wikipedia.org/wiki/Kardashev_scale) or that we are in a simulation.
 
 Gap between polar opposites (good/bad, left/right, right/wrong, you get the drift...) are seeming to cease gradually, but I value human emotions and logical reasoning.
 
