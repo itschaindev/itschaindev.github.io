@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -468,17 +468,17 @@ footer .theme-by {
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
-.intro-header .page-heading h1 {
+.intro-header .page-heading h2{
   margin-top: 0;
   font-size: 50px;
 }
-.intro-header .post-heading h1 {
+.intro-header .post-heading h2 {
   margin-top: 0;
   font-size: 35px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 23px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
