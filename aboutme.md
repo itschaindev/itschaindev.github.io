@@ -15,7 +15,7 @@ Gap between polar opposites (good/bad, left/right, right/wrong, you get the drif
 Trying to find the balance between being social and solitude. 
 
 
-Over last 3 years, I have been involved in blockchain space. Which pointed me to my true interest: cryptography! 
+I am involved in blockchain space. Which pointed me to my true interest: cryptography! 
 
 Two causes that I deeply care about are Privacy and Climate Change.
 
