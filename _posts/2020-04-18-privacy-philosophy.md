@@ -23,9 +23,9 @@ Does all your friends, family, colleagues have the same level of access to infor
 
 Remember that seemingly funny but lewd comment that you sent during a conversation with your best friend on an instant messaging app? That comment, taken out of context, is a weapon against you. The implications in your life can vary from mild to severe depending on who is coming after you and what is at stake.
 
-```
-In private we bad-mouth our friends and use coarse language; that we act different in private than in public is everyone’s most conspicuous experience, it is the very ground of the life of the individual; curiously, this obvious fact remains unconscious, unacknowledged, forever obscured by lyrical dreams of the transparent glass house, it is rarely understood to be the value one must defend beyond all others. [Kundera, The unbearable lightness of being]
-```
+
+> In private we bad-mouth our friends and use coarse language; that we act different in private than in public is everyone’s most conspicuous experience, it is the very ground of the life of the individual; curiously, this obvious fact remains unconscious, unacknowledged, forever obscured by lyrical dreams of the transparent glass house, it is rarely understood to be the value one must defend beyond all others. [Kundera, The unbearable lightness of being]
+
 
 One last thing on this sub-topic: everybody knows what you would probably do in the bathroom, yet you lock your door. Why? It's not a secret you are protecting, it's your privacy. Why should that be any different in the digital world?
 
