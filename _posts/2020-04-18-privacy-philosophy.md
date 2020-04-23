@@ -64,6 +64,3 @@ Till next time!
 [3] [The New York Times' Privacy Project](https://www.nytimes.com/interactive/2019/opinion/internet-privacy-project.html)
 
 [4] [Book: Privacy - What everyone needs to know by Francis & Francis](https://global.oup.com/academic/product/privacy-9780190612252?cc=de&lang=en)
-
-
-![Post Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fjagrut.xyz%2F2020-04-18-privacy-philosophy%2F)
