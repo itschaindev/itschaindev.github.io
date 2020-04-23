@@ -66,4 +66,4 @@ Till next time!
 [4] [Book: Privacy - What everyone needs to know by Francis & Francis](https://global.oup.com/academic/product/privacy-9780190612252?cc=de&lang=en)
 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fjagrut.xyz%2F2020-04-18-privacy-philosophy%2F)
+![Post Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fjagrut.xyz%2F2020-04-18-privacy-philosophy%2F)
