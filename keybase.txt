@@ -1,14 +1,15 @@
-### Keybase proof
+==================================================================
+https://keybase.io/jagrooot
+--------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am jagrutkosti on github.
+  * I am an admin of https://jagrut.xyz
   * I am jagrooot (https://keybase.io/jagrooot) on keybase.
-  * I have a public key whose fingerprint is 675B 1A71 5EF9 6AC6 C180  6A39 0A8A FF99 6F79 278D
+  * I have a public key with fingerprint 675B 1A71 5EF9 6AC6 C180  6A39 0A8A FF99 6F79 278D
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
-```json
 {
   "body": {
     "key": {
@@ -20,60 +21,61 @@ To claim this, I am signing this object:
       "uid": "d4df5cde6661a57db7615700c8100319",
       "username": "jagrooot"
     },
+    "merkle_root": {
+      "ctime": 1588867838,
+      "hash_meta": "f3a373c5127fdc41bc9500296da5f350e98aa918e78e64c102384b410419b4e9",
+      "seqno": 16195192
+    },
+    "revoke": {
+      "sig_ids": [
+        "26738e53648e7ac0b87c374d2ccd5d77a0dc64843c3f2321b9c74685f058adb00f"
+      ]
+    },
     "service": {
-      "name": "github",
-      "username": "jagrutkosti"
+      "hostname": "jagrut.xyz",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1588867472,
+  "ctime": 1588867844,
   "expire_in": 157680000,
-  "prev": "361e3eff6b1fb79ec54fafdea72c7933480dc574c71eb08f66d02e217869d04a",
-  "seqno": 4,
+  "prev": "99e02d4ceab9e42fdd823fdea0180060d9961089e969e6a863bd3e2b298cfbf8",
+  "seqno": 6,
   "tag": "signature"
 }
-```
 
-with the key [675B 1A71 5EF9 6AC6 C180  6A39 0A8A FF99 6F79 278D](https://keybase.io/jagrooot), yielding the signature:
+which yields the signature:
 
-```
 -----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMIdAnicrVJrSBRRGN11LXVBlLIHJQljmOEq987j3hkhhEooQQkCoYctd2burJM1
-u+3OrolpJVYUahaCUIT0I4weVGaCJWFqhtoLwaDoQYUIPX5UCxlRdsfsl3+7fy73
-3HMO5zt8Q6kel9ftbr7VlNz/4Yx77N7pqGtXN2yt5dSgXsMV1nJVdPaie3Qasf1V
-ps4VcgACKBqqQjQVS1SRJKoLSAFIoyrVJEOnPNCgrskCxTKvIkSIKEEKCC8KQNQQ
-0RCQAeF8nGFaARoOhU3LZrYISyokGErUUBySBmWAiKAAIhPDUBRkYIXHss6ElcGI
-o2DhVBKhBWaQYezh/xtvPv8/547O2umibkiaThFCkEhYVzGCEgZAkyEAAlQcYoSG
-LbKXMvZuEggHg0Gbq/NxDI2ZGnWKnfsNmHZlVJ2viNpVbFTTEdk1IQetpqp/Tu9X
-TUtnFTJZjIYjZtDiCiFjarbpGEBJlmWERcz7OLo/ZIap33QYEkYyYMfHhcI0xiwF
-BKlADQOp0FCxwroQDcLqIJjXsCIIogx0TcKihiFVgWwgpAOe8hDLSNGB6DQSofus
-IFcospgkwCwjZsAidjRMubqB/p2JLrfXtXBBgrNaLm9K+r+Fa+eTZgIVd9ZMPsH7
-3n9sE35fkBo6xuub0g4eWOWdVAYSRrcWB3qufJ6pUtNyl/q/dlUMDS98OOiPvm5N
-iCtJnhVkcLShuyX1aDw+ZN88cTG7aMn38YziN8LgqUNfWu6m51U03xiZyHc3vGj8
-FZ9Y3jZSXuaKx9aVbr9afrLIPo5+BFYnhrKepxu5PndKZ/XafG99Z1ff5LOCpNqc
-y3lnc6zS4g38suQtjZdKfg4+OvbIuB7PKmr4llG+OPP74ZL1l6fXP8me8ntT2h8L
-r8Y+fexJf5P6IXauY8feKe5dWaZHOta7smhb39Q4ms5+eru3/0HboreWxz5/f7hm
-86bEje6Bay+P9P4BD5Y+/Q==
-=ZCz1
+yMK6AnicrVNvaFZVGH9fm7leShJqYpDZJSLGGOfc83+VpUX5oYYtsUDny/l3t9u2
+9767977701hQYZblBFsYIzRWzaZEglv4p8aQzEKtD+tDTVx9aCAOLGlhkGXnrqKo
+r50vh3PO7/k9v/N7nufjG67JFfL5HeOvVE9eGMqfOp5WclvGUFWfpyLT6zX0eW12
+YbPtxiZpsS00XoMHIIA4UEJqxYgVhFiDqABUW2U1CYz1gYZGc2QZ9xWlUmICLZA+
+RgBrKjUFHEivzgvCUouNy3FYSh0tZURBySCxgchAGnJAJRJAchkEQtCACZ9x4wJb
+oySLcOKUTGx9GLk7dyj+Ie+/+P9Zd2WBzmATEG0spRRKwoxiFBIGgOYQAARFBkxs
+XJId1qGfki1xFEWp11/nddi4rd0W4+zozNVpmEEg4ZxTxhF3H5RJa7HDptJFBkgi
+hjSBPguMxlBpQQDwBTWSBIgAK7iUAnKn2lKsIfARxwpDgKFQ2GY6EttZilwGCgWB
+wncSYtsVtdksexK2ON8Sr2GT51OGuCWIYkcmNVCcacSw8bU2xDAmgdHuDSONAh/5
+UAnNMOUkAIRLowAIvOb+LFvcFeoF8qxQ/zCgktb39D7tBJXjKI101O7uW9O0nDRk
+tqS95QzYbVXxT4qiCkvGNYmL6LJxEkYl9wmH/JdjGNd5tqccxrYYZgjCKAduZXls
+l6MUwgLfYG2lEhb7gTHcR67gErgeAxQY1y0QcGEFFZZKTpEyyPrKF1wHKuB/W0id
+TNniKJ1tJZlWYuv1H5/cXJXLF3LXLl6UDU+ucN2Nf43Unk+WXC2tl+9XT1596dHz
+6y6/0biitrh/+K1Vtasav7DLPo8mpqu31t5x+FJ01y9TZOxX8tm9d19cfmJ0Cfz2
+Q75mqPnODT92Fl4YeGzRrpO5+ZH6qQlzy+odu39+59Tc0T58z9szc/fnxx86uf/0
+e7uGVq4/8qS/dusznY/U/HbgiSPnLh2bOPAcnn3+m9EvR6+8uH1sbmnhStO+pdte
+n8k/G09vevXhM4e2XZ5fvaGnaXZ6ZveZ7r3rXltzkA3eRj8deLDpu0NTfOUgHTx7
+U+Nw887i2pGegbP64rnKu6f37vxhxdRXJ14e/nrxsduHf6r56M2q7i0j3z+g9208
+f2F532w1qbk5evx6notv3b7nvvnxD9LfAcnIhf4=
+=oh8I
 -----END PGP MESSAGE-----
 
-```
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-And finally, I am proving ownership of the github account by posting this as a gist.
+View my publicly-auditable identity here: https://keybase.io/jagrooot
 
-### My publicly-auditable identity:
-
-https://keybase.io/jagrooot
-
-### From the command line:
-
-Consider the [keybase command line program](https://keybase.io/download).
-
-```bash
-# look me up
-keybase id jagrooot
-```
+==================================================================
