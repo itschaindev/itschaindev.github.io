@@ -1,0 +1,79 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jagrutkosti on github.
+  * I am jagrooot (https://keybase.io/jagrooot) on keybase.
+  * I have a public key whose fingerprint is 675B 1A71 5EF9 6AC6 C180  6A39 0A8A FF99 6F79 278D
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014fb9acb75e955ed36906cebec5fde20c1dc83e782b66aa451e0a24304c6ac6080a",
+      "fingerprint": "675b1a715ef96ac6c1806a390a8aff996f79278d",
+      "host": "keybase.io",
+      "key_id": "0a8aff996f79278d",
+      "kid": "01014fb9acb75e955ed36906cebec5fde20c1dc83e782b66aa451e0a24304c6ac6080a",
+      "uid": "d4df5cde6661a57db7615700c8100319",
+      "username": "jagrooot"
+    },
+    "service": {
+      "name": "github",
+      "username": "jagrutkosti"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1588867472,
+  "expire_in": 157680000,
+  "prev": "361e3eff6b1fb79ec54fafdea72c7933480dc574c71eb08f66d02e217869d04a",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [675B 1A71 5EF9 6AC6 C180  6A39 0A8A FF99 6F79 278D](https://keybase.io/jagrooot), yielding the signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIdAnicrVJrSBRRGN11LXVBlLIHJQljmOEq987j3hkhhEooQQkCoYctd2burJM1
+u+3OrolpJVYUahaCUIT0I4weVGaCJWFqhtoLwaDoQYUIPX5UCxlRdsfsl3+7fy73
+3HMO5zt8Q6kel9ftbr7VlNz/4Yx77N7pqGtXN2yt5dSgXsMV1nJVdPaie3Qasf1V
+ps4VcgACKBqqQjQVS1SRJKoLSAFIoyrVJEOnPNCgrskCxTKvIkSIKEEKCC8KQNQQ
+0RCQAeF8nGFaARoOhU3LZrYISyokGErUUBySBmWAiKAAIhPDUBRkYIXHss6ElcGI
+o2DhVBKhBWaQYezh/xtvPv8/547O2umibkiaThFCkEhYVzGCEgZAkyEAAlQcYoSG
+LbKXMvZuEggHg0Gbq/NxDI2ZGnWKnfsNmHZlVJ2viNpVbFTTEdk1IQetpqp/Tu9X
+TUtnFTJZjIYjZtDiCiFjarbpGEBJlmWERcz7OLo/ZIap33QYEkYyYMfHhcI0xiwF
+BKlADQOp0FCxwroQDcLqIJjXsCIIogx0TcKihiFVgWwgpAOe8hDLSNGB6DQSofus
+IFcospgkwCwjZsAidjRMubqB/p2JLrfXtXBBgrNaLm9K+r+Fa+eTZgIVd9ZMPsH7
+3n9sE35fkBo6xuub0g4eWOWdVAYSRrcWB3qufJ6pUtNyl/q/dlUMDS98OOiPvm5N
+iCtJnhVkcLShuyX1aDw+ZN88cTG7aMn38YziN8LgqUNfWu6m51U03xiZyHc3vGj8
+FZ9Y3jZSXuaKx9aVbr9afrLIPo5+BFYnhrKepxu5PndKZ/XafG99Z1ff5LOCpNqc
+y3lnc6zS4g38suQtjZdKfg4+OvbIuB7PKmr4llG+OPP74ZL1l6fXP8me8ntT2h8L
+r8Y+fexJf5P6IXauY8feKe5dWaZHOta7smhb39Q4ms5+eru3/0HboreWxz5/f7hm
+86bEje6Bay+P9P4BD5Y+/Q==
+=ZCz1
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jagrooot
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jagrooot
+```
