@@ -4,7 +4,7 @@ title: About me
 subtitle: Hi! I'm Jagrut. I live in Berlin.
 ---
 
-Living with a constant existential crisis can be difficult, but intriguing enough for a un-learn, re-learn cycle.
+Living with constant existential crisis can be difficult, but intriguing enough for a un-learn, re-learn cycle.
 
 I dislike the idea of _Societal Structures_, but I haven't escaped it, yet!
 
