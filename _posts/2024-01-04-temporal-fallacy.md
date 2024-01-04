@@ -29,7 +29,7 @@ This is ofcourse, relative to some frame of reference. For the person closer to 
 
 When we talk about space-time, time is nothing but a vector co-ordinate. 
 
-![image](https://hackmd.io/_uploads/Skxc_X4OT.png)
+![image](/img/temporal-fallacy.jpg)
 
 Probably you've seen a similar picture? Closer to a heavier object, the time vector is larger, rest remaining the same.
 
