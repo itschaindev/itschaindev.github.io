@@ -3,7 +3,7 @@ layout: post
 title: Temporal Fallacy
 ---
 
-Time. The idea of time is subjective and objective at the same time depending on your frame of reference. I want to talk about how the idea of time has influenced us, actually, conditioned us in a way that we just can't break free from it.
+Time. The idea of time is subjective and objective at the same time depending on your frame of reference. I want to talk about how the idea of time has influenced us, infact, conditioned us in a way that we just can't break free from it.
 
 We perceive time to be an intangible dimension that moves forward. How true is this? Does time actually "move forward"? What does it mean for time to move forward? Before answering these questions, we need to clarify how we see time and what it actually is.
 
@@ -23,7 +23,7 @@ This same notion of time would not apply if you lived on moon or mars or any oth
 
 ## Black Holes & Gravity
 
-Black holes are particularly interesting! According to relativity, time slows down the closer you approach a black hole or anything with more gravity. Time would move slower for a satellite orbiting closer to sun. Heck, even our geostationery satellites experience the time dilation effect compared to the surface level. GPS systems account for that and adjusts it to not affect the accuracy.
+Black holes are particularly interesting! According to relativity, time slows down as closer you approach a black hole or anything with more gravity. Time would move slower for a satellite orbiting closer to sun. Heck, even our geostationery satellites experience the time dilation effect compared to the surface of earth. GPS systems account for that and adjusts it to not affect the accuracy.
 
 This is ofcourse, relative to some frame of reference. For the person closer to black hole, the "*tick-tick-tick...*" will still be the same. So, what does it mean to say time slows down?
 
@@ -35,7 +35,7 @@ Probably you've seen a similar picture? Closer to a heavier object, the time vec
 
 The time that we talk about w.r.t to our solar system and earth is different than the space-time vector. They are the same in mathematical sense but not when we talk about time in day to day basis.
 
-It is true that a person away from a black hole would age faster relative to the the person closer to black hole i.e. two babies born at the same instant on places close and away from black hole, if they meet after 1 earth year, they will be of different age. By age I mean the biological growth. Assuming all this were possible to observe, we will need to create a new mental model than we currently have to grasp time. 
+It is true that a person away from a black hole would age faster relative to the person closer to the black hole i.e. two babies born at the same instant on places close and away from black hole, if they meet after 1 earth year, they will be of different age. By age I mean the biological growth. Assuming all this were possible to observe, we will need to create a new mental model than we currently have to grasp time. 
 
 But let's come back to earth where the frame of reference is the same for everyone (similar gravity everywhere). And where we are always so worried about time!
 
@@ -52,7 +52,7 @@ What we are essentially doing is imagining the events in reverse. But does that 
 
 > Stop reading. Imagine planets rotating around the sun. Observe the movement. 
 
-Were the planets moving clockwise or anti-clockwise? I bet they were moving clockwise(for most people). It's so interesting that even when we try to imagine the movement of planets around the sun, we perceive it clockwise!! Observing the same movements of the planets from below rather than the above (opposite side of plane of reference) will make it anti-clockwise and yet almost never we imagine that. We always think in clockwise first. Why? I call it the `clock rotation bias`. (Not sure if this term is already taken). We have always been surrounded by clocks since childhood. Everywhere in the world! It's really really difficult to imagine a world without clocks. Even the digital watches have clock faces!!
+Were the planets moving clockwise or anti-clockwise? I bet they were moving clockwise(for most people). It's so interesting that even when we try to imagine the movement of planets around the sun, we perceive it clockwise!! Observing the same movements of the planets from below rather than the above (opposite side of plane of reference) will make it anti-clockwise and yet we almost never imagine that. We always think in clockwise first. Why? I call it the `clock rotation bias`. (Not sure if this term is already taken). We have always been surrounded by clocks since childhood. Everywhere in the world! It's really really difficult to imagine a world without clocks. Even the digital watches have clock faces!!
 
 We have been so conditioned since our childhood that we derive strong correlation between an event and the movement of time. It is extremely difficult to imagine doing something or even observing something without a reference of time. Sometimes its conscious, sometimes unconscious. If a volcanic eruption is perceived as time moving forwards (since the reverse event is not possible/rare), does a sinkhole means the time is moving backwards?
 
@@ -66,14 +66,14 @@ If you argue that what if I keep going back again? Then my answer to that is you
 
 ## My Life
 
-You must be wondering why am I blabbering so much about time! For me it is fascinating how an intangible concept of time, has made us do things and shape how we live our lives. We are slaves to it. Slaves of something that does not really exist other than an tool to measure and explain physical phenomena. We know as a matter of fact that electrons are constantly moving around trillions of protons. And yet that has negligible effect on our day to day lives, how we think and how we want to live our lives.
+You must be wondering why am I blabbering so much about time! For me it is fascinating how an intangible concept of time, has made us do things and shape how we live our lives. We are slaves to it. Slaves of something that does not really exist other than a tool to measure and explain physical phenomena. We know as a matter of fact that electrons are constantly moving around trillions of protons. And yet that has negligible effect on our day to day lives, how we think and how we want to live our lives.
 
 > We pay no attention to the reality that is but willingly enslave our lives to a reality that isn't.
 
-I'm in no ways saying that keeping time isn't important. It is a great entity to measure, compare and understand the reality.
+I'm in no ways saying that keeping time isn't important. It is a great unit to measure, compare and understand the reality.
 
 Putting pressure on our selves, which are time-dependent, simply doesn't make sense. Getting education by 20, marriage by 30, starting your own venture by 40, are nothing but a poor yardstick designed to compete in an unfair world. We know for a fact that each individual is different biologically, let alone psychologically and yet we use the same yardstick to evaluate everyone.
 
-Off lately, I've started to think of my life not in my age but in terms of events. For example, I want to pursue a PhD. Whenever I can, I will take that up and not by certain age. Of course, there are physical restrictions to some activity as your body gets old but those are few and vary based on how well you've treated your body. Seeing the world in terms of events, takes pressure off from you and other people. Easier said than done. This will take time since as I already mentioned, it is indeed difficult to perceive your life without a frame of time.
+Off lately, I've started to think of my life not in my age but in terms of events. For example, I want to pursue a PhD. Whenever I can, I will take that up and not by certain age. Of course, there are physical restrictions to some activity as your body gets old but those are few and vary based on how well you've treated your body. Seeing the world in terms of events, takes pressure off of you and other people. Easier said than done. This will take time as it is indeed difficult to perceive your life without a frame of time.
 
 When - is the question, I think, doesn't make much sense. People grow at different pace, in all sorts of qualities. I'm learning to be more patient and accepting of this fact rather than setting my own expectations by my standards.
