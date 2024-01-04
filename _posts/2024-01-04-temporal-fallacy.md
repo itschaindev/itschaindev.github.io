@@ -77,3 +77,5 @@ Putting pressure on our selves, which are time-dependent, simply doesn't make se
 Off lately, I've started to think of my life not in my age but in terms of events. For example, I want to pursue a PhD. Whenever I can, I will take that up and not by certain age. Of course, there are physical restrictions to some activity as your body gets old but those are few and vary based on how well you've treated your body. Seeing the world in terms of events, takes pressure off of you and other people. Easier said than done. This will take time as it is indeed difficult to perceive your life without a frame of time.
 
 When - is the question, I think, doesn't make much sense. People grow at different pace, in all sorts of qualities. I'm learning to be more patient and accepting of this fact rather than setting my own expectations by my standards.
+
+> P.S. This blog is a result of discussions with my brother and his insights were pretty cool!
