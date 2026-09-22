@@ -12,5 +12,3 @@ recent = true
 recent_max = 10
 recent_more_text = "more »"
 +++
-
-This is where I will tell my friends way too much about my thoughts.

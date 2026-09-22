@@ -57,8 +57,3 @@ Update the theme with `git submodule update --remote themes/serene` after checki
 
 Pushing to `master` runs `.github/workflows/deploy.yml`, which builds the site and deploys it
 to GitHub Pages. The repository's Pages source must be set to "GitHub Actions" (Settings -> Pages).
-
-## Credits
-
-Originally based on [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) by Dean Attali (MIT).
-Rebuilt on Zola with the [Serene](https://github.com/isunjn/serene) theme by isunjn (MIT) in 2026.
