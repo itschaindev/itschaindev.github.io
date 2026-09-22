@@ -1,0 +1,79 @@
+base_url = "https://jagrut.xyz"
+title = "Sarcastic Existentialist"
+description = "My rants about stuff"
+author = "Jagrut Kosti"
+default_language = "en"
+theme = "serene"
+output_dir = "public"
+compile_sass = true
+minify_html = false # Keep this false, as it may cause issues with some styles
+build_search_index = false # Keep this false, search is temporarily unsupported
+generate_feeds = true # One site-wide feed at /feed.xml (sections have generate_feeds = false)
+feed_filenames = ["feed.xml"] # "feed.xml" | "atom.xml" | "rss.xml", read docs for more info
+taxonomies = [{ name = "tags" }, { name = "categories" }]
+
+[markdown]
+render_emoji = false
+external_links_target_blank = false
+external_links_no_follow = true
+external_links_no_referrer = true
+smart_punctuation = true
+github_alerts = true
+
+[markdown.highlighting]
+style = "class"
+light_theme = "github-light"
+dark_theme = "github-dark"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+#=========================================================================================
+
+[extra]
+
+nav = [
+  { name = "posts", path = "/posts" },
+  { name = "about", path = "/about" },
+  # { name = "tags", path = "/tags" },   # enable once at least one post has tags
+]
+
+# Your info on the home page, if you don't want to display handle/bio/avatar, simply comment out that line
+name = "Sarcastic Existentialist"  # the theme always shows a name here, so the blog title takes that slot
+links = [
+  { name = "GitHub", icon = "github", url = "https://github.com/itschaindev", rel_me = true },
+  { name = "Email", icon = "email", url = "mailto:hello@jagrut.xyz" },
+  { name = "Twitter", icon = "twitter", url = "https://twitter.com/jagrutk", rel_me = true },
+  { name = "Keybase", icon = "fingerprint", url = "https://keybase.io/jagrooot", rel_me = true },
+  { name = "RSS", icon = "rss", url = "/feed.xml" },  # icon in static/icon/rss.svg
+]
+blog_section_path = "/posts" # Path of the main blog section, used by home page's recent posts and tags pages
+
+back_link_text = "Back" # Text of the back button
+color_scheme = "light" # "auto" | "light" | "dark"
+
+og_image = "img/avatar-dp.png" # The default image for social media sharing (Open Graph)
+
+footer_copyright = "© 2026 Jagrut Kosti"
+footer_credits = true # Whether to show "Built with zola and serene" in footer
+
+not_found_error_text = "404 Not Found"
+not_found_recover_text = "« back to home »"
+
+# Site-wide default values of display options, can be overridden in a section's `_index.md`, and again in a post's front-matter
+date_format = "%b %-d, %Y"
+toc = false # show table-of-contents
+code_copy = true # show copy button in code block
+comment = false # enable comment
+math = false # enable formula rendering with KaTeX
+mermaid = false # enable chart rendering with Mermaid
+outdated_alert = false # show outdate alert after certain days
+outdated_alert_days = 120
+outdated_alert_text_before = "This article was last updated "
+outdated_alert_text_after = " days ago and may be out of date."
+
+reaction = false # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
+reaction_align = "right" # "left" | "center" | "right"
+reaction_endpoint = "https://example.com/api/reaction"
