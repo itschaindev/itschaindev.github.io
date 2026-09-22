@@ -1,12 +1,12 @@
 /* Sarcastic Existentialist — stylesheet
-   Modelled on the Bear Blog theme at zoeloukia.bearblog.dev: one serif at one size,
+   Modelled on the Bear Blog theme at zoeloukia.bearblog.dev: one serif (Literata) at one size,
    cream background, plain underlined links, dashed rules, a date column in the post list.
    Font faces are in fonts.css. */
 
 :root {
   color-scheme: light;
   --width: 720px;                 /* reading column (the reference uses 1000px) */
-  --font-main: "Baskervville", "Iowan Old Style", Georgia, serif;
+  --font-main: "Literata", "Iowan Old Style", Georgia, serif;
   --font-scale: 18px;
   --background-color: #fbfbf6;
   --heading-color: #333;
@@ -20,22 +20,7 @@
   --sun-display: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    color-scheme: dark;
-    --background-color: #1e1e1b;
-    --heading-color: #eaeae4;
-    --text-color: #d8d8d1;
-    --link-color: #d8d8d1;
-    --visited-color: #d8d8d1;
-    --code-background-color: #2b2b27;
-    --code-color: #d8d8d1;
-    --blockquote-border: #777;
-    --moon-display: none;
-    --sun-display: inline;
-  }
-}
-
+/* Dark theme, applied only when the header toggle sets data-theme="dark" */
 :root[data-theme="dark"] {
   color-scheme: dark;
   --background-color: #1e1e1b;
@@ -60,7 +45,8 @@ body {
   background-color: var(--background-color);
   word-wrap: break-word;
   overflow-wrap: break-word;
-  line-height: 1.5;
+  line-height: 1.6;
+  letter-spacing: 0.015em;
   color: var(--text-color);
 }
 

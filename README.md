@@ -23,9 +23,9 @@ Unfinished notes go in `_drafts/`, which is never built.
 
 ## Design
 
-The look follows the Bear Blog theme: one typeface (Baskervville, self-hosted in `css/fonts/`),
-one font size, cream background, plain underlined links, dashed rules. Light and dark follow the
-system setting, and the small moon/sun button in the header overrides it.
+The look follows the Bear Blog theme: one typeface (Literata, self-hosted in `css/fonts/`),
+one font size, cream background, plain underlined links, dashed rules. The site is light by default;
+the small moon/sun button in the header switches to dark and remembers the choice.
 
 - Colours, width and font are the custom properties at the top of `css/main.css`.
 - Site title, tagline, navigation and footer links are in `_data/site.json`.

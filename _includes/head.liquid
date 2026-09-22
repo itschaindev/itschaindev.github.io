@@ -9,9 +9,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="color-scheme" content="light dark">
-  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fbfbf6">
-  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1e1e1b">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#fbfbf6">
 
   <title>{{ fullTitle }}</title>
   <meta name="description" content="{{ metaDescription | escape }}">
@@ -21,8 +20,8 @@
   <link rel="icon" href="{{ site.favicon }}" type="image/png">
   <link rel="apple-touch-icon" href="{{ site.favicon }}">
 
-  {%- comment %} Apply a saved theme choice before first paint {% endcomment %}
-  <script>(function(){try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+  {%- comment %} Light by default; apply a saved dark choice before first paint {% endcomment %}
+  <script>(function(){try{if(localStorage.getItem('theme')==='dark'){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 
   <link rel="stylesheet" href="/css/fonts.css">
   <link rel="stylesheet" href="/css/main.css">
