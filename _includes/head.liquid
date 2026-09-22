@@ -1,0 +1,43 @@
+{%- assign pageTitle = title | default: site.title -%}
+{%- if page.url == "/" -%}
+  {%- capture fullTitle %}{{ site.title }} - {{ site.description }}{% endcapture -%}
+{%- else -%}
+  {%- capture fullTitle %}{{ pageTitle }} - {{ site.title }}{% endcapture -%}
+{%- endif -%}
+{%- assign metaDescription = description | default: subtitle | default: site.description -%}
+{%- assign canonical = site.url | append: page.url -%}
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fbfbf6">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1e1e1b">
+
+  <title>{{ fullTitle }}</title>
+  <meta name="description" content="{{ metaDescription | escape }}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="canonical" href="{{ canonical }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
+  <link rel="icon" href="{{ site.favicon }}" type="image/png">
+  <link rel="apple-touch-icon" href="{{ site.favicon }}">
+
+  {%- comment %} Apply a saved theme choice before first paint {% endcomment %}
+  <script>(function(){try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+
+  <link rel="stylesheet" href="/css/fonts.css">
+  <link rel="stylesheet" href="/css/main.css">
+
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ pageTitle | escape }}">
+  <meta property="og:description" content="{{ metaDescription | escape }}">
+  <meta property="og:type" content="{% if tags contains 'posts' %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta property="og:image" content="{{ site.url }}{{ image | default: site.image }}">
+  {%- if tags contains 'posts' %}
+  <meta property="article:published_time" content="{{ page.date | isoDate }}">
+  {%- endif %}
+  <meta name="twitter:card" content="summary">
+  {%- if site.twitter %}
+  <meta name="twitter:site" content="@{{ site.twitter }}">
+  {%- endif %}
+</head>

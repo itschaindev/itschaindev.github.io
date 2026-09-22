@@ -1,0 +1,8 @@
+<footer>
+  <p>
+    {%- for link in site.links %}
+    <a href="{{ link.url }}"{% if link.rel %} rel="{{ link.rel }}"{% endif %}>{{ link.text }}</a>{% unless forloop.last %} &middot;{% endunless %}
+    {%- endfor %}
+  </p>
+  <p>&copy; {{ site.author }} {{ build.year }}</p>
+</footer>

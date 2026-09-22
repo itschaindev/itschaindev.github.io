@@ -1,0 +1,22 @@
+{
+  "title": "Sarcastic Existentialist",
+  "description": "My rants about stuff",
+  "url": "https://jagrut.xyz",
+  "author": "Jagrut Kosti",
+  "image": "/img/avatar-dp.png",
+  "favicon": "/img/avatar-icon.png",
+  "twitter": "jagrutk",
+  "wordsPerMinute": 200,
+  "nav": [
+    { "text": "home", "url": "/" },
+    { "text": "about", "url": "/aboutme/" },
+    { "text": "tags", "url": "/tags/" }
+  ],
+  "links": [
+    { "text": "email", "url": "mailto:hello@jagrut.xyz" },
+    { "text": "github", "url": "https://github.com/itschaindev", "rel": "me" },
+    { "text": "keybase", "url": "https://keybase.io/jagrooot", "rel": "me" },
+    { "text": "twitter", "url": "https://twitter.com/jagrutk", "rel": "me" },
+    { "text": "rss", "url": "/feed.xml" }
+  ]
+}

@@ -3,46 +3,50 @@
 This is a place where I will write about my thoughts occassionally.
 Topics would mostly consist of philosophy, tech and social causes that I care about.
 
-Built using Jekyll.
-For customization options, change field values in `_config.yml`.
+Built with [Eleventy](https://www.11ty.dev) and published to GitHub Pages at [jagrut.xyz](https://jagrut.xyz).
 
-## Advanced: Local development using Docker
+## Writing
 
-Beautiful Jekyll is meant to be so simple to use that you can do it all within the browser. However, if you'd like to develop locally on your own machine, that's possible too if you're comfortable with command line. Follow these simple steps set that up with Docker:
+Posts live in `_posts/` as `YYYY-MM-DD-title.md`. The date in the file name is the post date
+and the file name becomes the URL (`/YYYY-MM-DD-title/`).
 
-1. Make sure you have [Docker](https://www.docker.com/) installed.
-
-2. Clone your repository locally.
-
-    ```bash
-    git clone https://github.com/<your_username>/<your_username>.github.io.git
-    ```
-
-3. Run the following shell commands to build the docker image and start the container for the first time:
-
-    ```bash
-    cd <repository_folder>
-    docker build -t beautiful-jekyll "$PWD"
-    docker run -d -p 4000:4000 --name beautiful-jekyll -v "$PWD":/srv/jekyll beautiful-jekyll
-    ```
-
-
-Now that Docker is set up, you do not need to run the above steps again. You can now view your website at http://localhost:4000/. You can start the container again in the future with:
-
-```bash
-docker start beautiful-jekyll
+```yaml
+---
+layout: post
+title: Post title
+subtitle: Optional one-line summary   # shown in italics under the title
+tags: [philosophy, privacy]           # optional, listed on /tags/
+---
 ```
 
-And you can stop the server with:
+Unfinished notes go in `_drafts/`, which is never built.
+
+## Design
+
+The look follows the Bear Blog theme: one typeface (Baskervville, self-hosted in `css/fonts/`),
+one font size, cream background, plain underlined links, dashed rules. Light and dark follow the
+system setting, and the small moon/sun button in the header overrides it.
+
+- Colours, width and font are the custom properties at the top of `css/main.css`.
+- Site title, tagline, navigation and footer links are in `_data/site.json`.
+- Page shells are in `_layouts/`, shared fragments in `_includes/` (Liquid templates).
+- `feed.liquid`, `sitemap.liquid` and `robots.liquid` generate `/feed.xml`, `/sitemap.xml` and `/robots.txt`.
+
+## Local development
+
+Requires Node 20 or newer.
 
 ```bash
-docker stop beautiful-jekyll
+npm install
+npm run serve      # http://localhost:8080/ with live reload
+npm run build      # writes the site to _site/
 ```
 
-Whenever you make any changes to `_config.yml`, you must stop and re-start the server for the new config settings to take effect.
+## Deployment
 
-Disclaimer: I personally am NOT using local development so I don't know much about running Jekyll locally. If you follow this route, please don't ask me questions because unfortunately I honestly won't be able to help!
+Pushing to `master` runs `.github/workflows/deploy.yml`, which builds the site and deploys it
+to GitHub Pages. The repository's Pages source must be set to "GitHub Actions" (Settings -> Pages).
 
-### Credits
+## Credits
 
-[Beautiful-Jekyll](https://github.com/daattali/beautiful-jekyll)
+Built on Eleventy with a look modelled on [Bear Blog](https://bearblog.dev).
