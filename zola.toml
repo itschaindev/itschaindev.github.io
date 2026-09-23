@@ -52,7 +52,7 @@ links = [
 blog_section_path = "/posts" # Path of the main blog section, used by home page's recent posts and tags pages
 
 back_link_text = "Back" # Text of the back button
-color_scheme = "light" # "auto" | "light" | "dark"
+color_scheme = "auto" # "auto" | "light" | "dark"
 
 og_image = "img/avatar-dp.png" # The default image for social media sharing (Open Graph)
 
