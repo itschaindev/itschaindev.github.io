@@ -33,7 +33,7 @@ redirect to the new ones; `/aboutme/` redirects to `/about/` the same way.
 - `zola.toml` — site settings; everything under `[extra]` is the theme's (name, bio, links, nav,
   colour scheme, display defaults). Start from `themes/serene/zola.toml.example` when the theme updates.
 - `content/_index.md` — home page text, `content/posts/_index.md` — blog section, `content/about/_index.md` — about page.
-- `static/img/` — favicons and images used in posts; `static/font/` holds the self-hosted font files (Atkinson Hyperlegible Next in use, Literata kept declared).
+- `static/img/` — favicons and images used in posts; `static/font/` holds the self-hosted font files (Mozilla Text in use; Atkinson Hyperlegible Next and Literata kept declared).
 - `templates/_custom_font.html` and `templates/_custom_css.html` — the theme's override hooks: the first declares
   the font faces, the second sets `--main-font` (switch fonts there) and the theme's colour and size variables.
 - `themes/serene/` — the theme, as a git submodule on its `latest` branch. Do not edit files inside it;
