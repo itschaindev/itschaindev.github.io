@@ -8,6 +8,8 @@ This blog is the third and last part about my rants on privacy. If you haven't a
 
 ## It's too technical!
 
+EDIT: Here's a good list of all sorts of open source tools: https://openalternative.co/
+
 First and foremost, before changing your digital service providers it is important to understand where they stand on privacy. Simply stating that they are concerned about user's privacy, does not make them good players. A good way to analyze could be to look at their revenue model and what they are capable of doing with trillions of individual data points. Which products bring in the most amount of money? E.g. the main revenue of Google is from advertisements while that of Apple is from its products.
 
 Changing to a different service provider is no doubt time consuming and sometimes might cause frustration. But I think of it as a habit, over time and with continuous use of patterns, we can form a habit to organize our digital lives so that we are not relying entirely on the whims of few giants. Depending on your purpose, there might not be an alternative available. E.g. there is no good alternative to YouTube. Platforms like YouTube are hard to replace. They thrive on the simple idea that the content is not only consumed but also produced by their users. The more content, the better the platform. On top of that, YouTube has a good incentive mechanism to push more of its users to create the content. An alternative platform can have a better user experience but the amount of content available is simply unmatched. Same applies to social media platforms like Facebook and Instagram. What do we do about such platforms? Regulate them. Many would perceive this a violation of the principles of capitalism. My argument follows in the subsequent section.
@@ -16,18 +18,21 @@ For creating a healthier digital life and consciously investing your time, a goo
 
 - **Browser**: Our gateway to the digital world! I cannot express how important it is to use a browser that rather than pushing you towards giving up your data, gives you complete control over it (Oh btw, did you notice Chrome asking to sign in repeatedly?). Change to either of the following browsers on all your devices.
 
-  - [Brave](https://brave.com/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-  - [DuckDuckGo](https://duckduckgo.com/) - Available for iOS and Android
+  - [Brave](https://brave.com/)
+  - There are several new ones
 
 - **Search Engine**: A go-to place for anything that we want to look up on the internet. For most people, it is an entry point towards any site. Imagine if your search engine was a human being. They would know everything you do on the internet. And no, incognito window does not help.
 
-  - [DuckDuckGo](https://duckduckgo.com/). Make it your default search engine on all your devices. For day to day search activites, it is as good as Google. If you don't find relevant results for few of the topics, you can always look up on Google. But the default matters.
+  - [Qwant](https://www.qwant.com)
+  - [Brave Search](https://search.brave.com)
+  - [Start Page](https://startpage.com)
 
 - **Email/Calendar**: Our identity on the internet. A simple yet powerful tool, as old as internet which is the basis of registration on other platforms. While there are several email service providers from Yahoo, Gmail, Outlook for you to diversify; I would recommend you to use a service which provides end-to-end (E2E) encryption (only sender and receiver can see the original content and not even the service provider). Beware that E2E encryption is different than transport layer security (TLS) encryption that most services offer. Often E2E encryption services will be paid. But your email history has so much information about you to tailor personalized ads that I would highly recommend paying for such a serivce. Some good alternatives are:
 
   - [Protonmail](https://protonmail.com/): Free till 500MB storage and 150 emails per day, apps available for all platforms
   - [MailFence](https://mailfence.com/)
+  - [Tuta](https://tuta.com)
   - If you are technically sound, start using OpenPGP and expose your public key on platforms like [Keybase](https://keybase.io). This is the most secure form of communication btw, free of cost if paired with another email service provider or if you have your mail server.
 
 - **Phone**: Perhaps the most important thing on the list. You have it near you when you sleep, poop (some people, if not all ;)) and everywhere you travel. Mobile phone manufacturing companies have to be trusted in terms of privacy as they are the ones to build your phone hardware and all the firmware. Equally important is the country of manufacturing of these devices as the government can have a substantial influence at this stage and would be difficult to identify infringement. When it comes to phones, options are surprisingly limited and there is no other option than to trust one of these companies. My personal preference is Apple with its firm stance on privacy and the control it gives you for permitting different apps with different level of access. Of course, it is not the only option and there are several manufacturers for Android, choose one based on their stance on privacy.
@@ -35,13 +40,12 @@ For creating a healthier digital life and consciously investing your time, a goo
 - **Messaging**: The issue with changing your digital service provider for messaging app is that your social circle should also be using them. And that's tricky. I tried to simply shut off my WhatsApp twice, only to find myself talking to 2-3 people. But I found a working solution to that problem. Use WhatsApp, but also simultaneously use other messaging apps. This way, you talk to the people who are already using non-WhatsApp on non-WhatsApp and slowly allowing the time for your social circle to transition to these platforms. Some really good alternatives are:
 
   - [Signal](https://www.signal.org/): E2E by default. (If you are going to change, please change to Signal!)
-  - [Telegram](https://telegram.org/): Not E2E by default but an option to enable that for every chat.
 
 - **Cloud Storage**: Still have your Google Photos auto sync on? The more data you are sharing with one company, more powerful they become. Infact, I sometimes think they are already too big to even bother about your data. Battles are not won by those who admit defeat in the face of adversity. There are several options here like Microsoft, Apple, etc. But I would recommend using [Mega](https://mega.nz) because it provides E2E for all your data on the cloud, and that's amazing!
 
 - **Encryption**: The best tool we have to secure your data against adversaries is good encryption. For your laptops, turn on [Microsoft's Bitlocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) or [Apple's FileVault](https://support.apple.com/en-us/HT204837). They are very trivial to use.
 
-For more resources on this topic, I would suggest you to read articles from companies like [Mozilla](https://foundation.mozilla.org/en/) and [Duckduckgo](https://spreadprivacy.com/).
+For more resources on this topic, I would suggest you to read articles from companies like [Mozilla](https://foundation.mozilla.org/en/).
 
 ## Let's get political!
 
